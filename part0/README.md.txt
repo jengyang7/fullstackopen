@@ -1,0 +1,1 @@
+In Part 0, I learned about the fundamental of web apps including HTML, CSS, JavaScript, and different between old and modern web development like single page app (SPA).
